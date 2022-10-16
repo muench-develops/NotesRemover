@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesRemover", "NotesRemover\NotesRemover.csproj", "{27C5DDFB-D7F1-4446-81C2-06D78BFB9C2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27C5DDFB-D7F1-4446-81C2-06D78BFB9C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C5DDFB-D7F1-4446-81C2-06D78BFB9C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C5DDFB-D7F1-4446-81C2-06D78BFB9C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C5DDFB-D7F1-4446-81C2-06D78BFB9C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7BA0E71-E752-43DE-8807-14A7BF2554DE}
+	EndGlobalSection
+EndGlobal
